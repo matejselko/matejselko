@@ -6,7 +6,10 @@
 🔐 Privacy freak<br/>
 🖥️ Self-hoster<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ma73j" alt="ma73j" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/matej_selko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matej_selko" height="30" width="40" /></a>
+</p>
 
 From 🇸🇰 Slovakia<br/> 
 
