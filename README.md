@@ -1,5 +1,5 @@
 # 💫 About Me:
-(https://user-badge.committers.top/slovakia/USERNAME.svg)](https://user-badge.committers.top/slovakia/matejselko) </br>
+[![Povedz loď](https://user-badge.committers.top/slovakia/USERNAME.svg)](https://user-badge.committers.top/slovakia/matejselko) </br>
 🎓 IT Student<br>🪐 Interested in astronomy<br>🎮 Gamer (mostly survival and solo games)<br>🔐 Privacy freak<br>🖥️ Self-hoster
 
 # 💼 What am I working on:
